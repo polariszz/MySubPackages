@@ -1,0 +1,3 @@
+{
+	"cmd": ["cd /Users/polaris/Code/hulu/cube/core| bin/waf distclean configure -p webkit build"]
+}
