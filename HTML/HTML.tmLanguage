@@ -13,6 +13,7 @@
 		<string>tmpl</string>
 		<string>tpl</string>
 		<string>ctp</string>
+		<string>underscore</string>
 	</array>
 	<key>firstLineMatch</key>
 	<string>&lt;!(?i:DOCTYPE)|&lt;(?i:html)|&lt;\?(?i:php)</string>
