@@ -4,13 +4,17 @@
 		"Alignment",
 		"CoffeeScript",
 		"ConvertToUTF8",
+		"CSS Colors",
 		"GBK Encoding Support",
 		"Git",
+		"GitDiffHelper",
 		"Github Color Theme",
 		"Markdown Preview",
 		"Markdown Slideshow",
 		"Package Control",
+		"SCSS",
 		"sublemacspro",
-		"Theme - Aqua"
+		"Theme - Aqua",
+		"TrailingSpaces"
 	]
 }

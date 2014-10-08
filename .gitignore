@@ -1,2 +1,4 @@
 *.cache
 Users/encoding_cache.json
+*.pyc
+*.last-run
